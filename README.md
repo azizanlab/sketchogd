@@ -20,7 +20,7 @@ Official code for [SketchOGD: Memory-Efficient Continual Learning]
 ```
 @article{,
   title={SketchOGD: Memory-Efficient Continual Learning},
-  author={anonymous authors},
+  author={Benjamin Wright and Youngjae Min and Jeremy Bernstein and Navid Azizan},
   journal={},
   year={2023}
 }
